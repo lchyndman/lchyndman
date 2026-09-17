@@ -4,7 +4,7 @@ Honours Physics student at the University of Canterbury (BSc Computer Science & 
 
 I use computation to gain insight into physical systems that would otherwise be opaque to observers — I like decomposing large, poorly-understood physical problems into structured, testable pieces, and I'm especially drawn to the boundary between continuous physical reality and the discrete models we build to approximate it.
 
-- 🔭 Currently working on my Honours project: recovering blazar physical parameters from simulated multi-messenger (photon + neutrino) spectra using gradient-boosted regression, supervised by Dr Ankur Sharma — see [PHYS480](https://github.com/lchyndman/PHYS480)
+- 🔭 Currently working on my Honours project: recovering blazar physical parameters from simulated multi-messenger (photon + neutrino) spectra using gradient-boosted regression, supervised by Dr Ankur Sharma — see [PHYS480-Project](https://github.com/lchyndman/PHYS480)
 - 🌌 Background spans astroparticle physics, observational astronomy, embedded systems, computer graphics, and data science
 - 🧑‍🏫 Tutor for PHYS101/ASTR112 at UC, and a volunteer coach for the NZ Olympiad in Astronomy and Astrophysics — I enjoy explaining complex material to people with less context than me
 - 🌱 Learning: numerical plasma modelling, graph-based ML, and whatever the next project throws at me
@@ -22,7 +22,7 @@ I use computation to gain insight into physical systems that would otherwise be 
 
 | Project | Description |
 |---|---|
-| [PHYS480](https://github.com/lchyndman/PHYS480) | Honours project — ML parameter recovery from simulated blazar SEDs, plus IceCube neutrino-detectability modelling |
+| [PHYS480-Project](https://github.com/lchyndman/PHYS480-Project) | Honours project — ML parameter recovery from simulated blazar SEDs, plus IceCube neutrino-detectability modelling |
 | [ENCE61-Project](https://github.com/lchyndman/ENCE61-Project) | 2-person embedded systems project — wearable step counter firmware on an STM32 Nucleo board (C) |
 | [DATA301-Project](https://github.com/lchyndman/DATA301-Project) | Big data project — Apriori association mining on 230k Food.com recipes to find ingredient/nutrient patterns (Dask, Python) |
 | [ASTR211-Project](https://github.com/lchyndman/ASTR211-Project) | Solo observational astronomy project — radial velocity and stellar parameter fitting via telescope spectroscopy of the Pi Mensae system |
